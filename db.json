@@ -1,0 +1,72 @@
+{
+  "address": [
+    {
+      "address": "Kinh 4, Châu Phú B, Châu Đốc, An Giang",
+      "house_number": "",
+      "street_name": "Kinh 4",
+      "ward": "Châu Phú B",
+      "district": "Châu Đốc",
+      "city": "An Giang",
+      "is_valid": true,
+      "validating_times": 2,
+      "creat_on":"2021-02-29 00:00:00",
+      "create_by":"7fc3f885-de6f-4912-93b0-673b00fc997e",
+      "modified_on":"2001-09-29 00:00:00",
+      "modified_by":"7fc3f885-de6f-4912-93b0-673b00fc997e",
+      "evaluate_rate": "refurbished",
+      "comment": "đánh lần 2",
+      "id": 1
+    },
+    {
+      "address": "917 Tôn Đức Thắng, Vĩnh Mỹ, Châu Đốc, An Giang",
+      "house_number": "917",
+      "street_name": "Tôn Đức Thắng",
+      "ward": "Vĩnh Mỹ",
+      "district": "Châu Đốc",
+      "city": "An Giang",
+      "is_valid": true,
+      "validating_times": 1,
+      "creat_on":"2021-03-29 00:00:00",
+      "create_by":"7fc3f885-de6f-4912-93b0-673b00fc997e",
+      "modified_on":"2001-09-29 00:00:00",
+      "modified_by":"7fc3f885-de6f-4912-93b0-673b00fc997e",
+      "evaluate_rate": "refurbished",
+      "comment": "đánh lần 1",
+      "id": 2
+    },
+    {
+      "address": "917 Tôn Đức Thắng, Vĩnh Mỹ, Châu Đốc, An Giang",
+      "house_number": "917",
+      "street_name": "Tôn Đức Thắng",
+      "ward": "Vĩnh Mỹ",
+      "district": "Châu Đốc",
+      "city": "An Giang",
+      "is_valid": false,
+      "validating_times": 1,
+      "creat_on":"2021-01-10 00:00:00",
+      "create_by":"c2b57528-eb41-4126-ab47-9291e303c760",
+      "modified_on":"2001-09-29 00:00:00",
+      "modified_by":"7fc3f885-de6f-4912-93b0-673b00fc997e",
+      "evaluate_rate": "refurbished",
+      "comment": "đánh lần 2",
+      "id": 3
+    },
+    {
+      "address": "917 Tôn Đức Thắng, Vĩnh Mỹ, Châu Đốc, An Giang",
+      "house_number": "917",
+      "street_name": "Tôn Đức Thắng",
+      "ward": "Vĩnh Mỹ",
+      "district": "Châu Đốc",
+      "city": "An Giang",
+      "is_valid": false,
+      "validating_times": 1,
+      "creat_on":"2021-01-10 00:00:00",
+      "create_by":"c2b57528-eb41-4126-ab47-9291e303c760",
+      "modified_on":"2001-09-29 00:00:00",
+      "modified_by":"7fc3f885-de6f-4912-93b0-673b00fc997e",
+      "evaluate_rate": "refurbished",
+      "comment": "đánh lần 2",
+      "id": 3
+    }
+  ]
+}
